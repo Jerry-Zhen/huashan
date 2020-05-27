@@ -7,4 +7,7 @@ package com.jerry.git;
  * @Version 1.0
  */
 public class Apple {
+    public static void main(String[] args) {
+
+    }
 }
